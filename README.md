@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NachoFuerte
-- 👀 I’m interested in Web apps
+- 👀 I’m interested in Progressive web apps
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
